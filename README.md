@@ -45,3 +45,6 @@ Aplicación en Java para calcular los precios de alquiler de vehículos utilizan
 
 ```mar
 
+### A. Ynfante Valero
+
+
