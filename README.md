@@ -1,4 +1,4 @@
-# 🚗 Alquiler de Vehículos
+# 🚗 Alquiler de Vehículos x Ynfante Valero
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -43,8 +43,12 @@ Aplicación en Java para calcular los precios de alquiler de vehículos utilizan
 
 ## Estructura del Proyecto
 
-```mar
-
-### A. Ynfante Valero
-
-
+```markdown
+src/
+├── AplicacionAlquiler.java      # Clase principal con la interfaz gráfica
+├── Vehiculo.java                # Clase abstracta base para todos los vehículos
+├── Coche.java                   # Clase para coches
+├── Microbus.java                # Clase para microbuses
+├── VehiculoCarga.java           # Clase abstracta para vehículos de carga
+├── FurgonetaCarga.java          # Clase para furgonetas de carga
+└── Camion.java                  # Clase para camiones
